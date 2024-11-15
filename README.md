@@ -1,5 +1,6 @@
 # Steganography
 Hides messages in image files and audio files
+Join my discord: https://discord.gg/zsGTqgnsmK
 Image formats:
 
 PNG
